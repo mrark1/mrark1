@@ -2,7 +2,7 @@
 🎓 **B.Tech in CSE (AI/ML) @ Kanpur Institute of Technology** | CGPA: 9.6  
 💡 Passionate about **AI, Web Development, and Problem-Solving**  
 🌱 Currently learning **React.js, Node.js, and TensorFlow**  
-📫 Reach me: **240410@kit.ac.in** | [LinkedIn](https://linkedin.com/in/ark0001) | [Portfolio](#)  
+📫 Reach me: **240410@kit.ac.in** | [LinkedIn](https://linkedin.com/in/ark0001) | [Portfolio](https://arpitrajkatiyar.netlify.app/)  
 
 ## 🚀 About Me  
 I'm an aspiring **Software Engineer** with a knack for building scalable solutions. My focus areas include:  
