@@ -1,3 +1,8 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=ARPIT%20RAJ%20KATIYAR&fontSize=65&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
 # 👋 Hi, I'm Arpit Raj Katiyar  
 🎓 **B.Tech in CSE (AI/ML) @ Kanpur Institute of Technology** | CGPA: 9.6  
 💡 Passionate about **AI, Web Development, and Problem-Solving**  
@@ -28,7 +33,11 @@ I'm an aspiring **Software Engineer** with a knack for building scalable solutio
    - Developed using **Python + OpenCV** to detect faces  
 
 3. **[PRAN-KAVACH (Hackathon Project)](https://github.com/Tushar-AIMASTER/PRAN_KAVACH)**  
-   - AI-driven health monitoring tool (FOSS Hack 2025)  
+   - AI-driven health monitoring tool (FOSS Hack 2025)
+  
+<img src="https://raw.githubusercontent.com/mrark1/mrark1/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 📈 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=mrark1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -50,4 +59,11 @@ I'm an aspiring **Software Engineer** with a knack for building scalable solutio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ark0001)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrark1)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:240410@kit.ac.in)  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrark1.mrark1&"  />
+</div>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=65&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
+###
