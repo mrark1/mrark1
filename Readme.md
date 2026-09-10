@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=ARPIT%20RAJ%20KATIYAR&fontSize=65&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-# 👋 Hi, I'm [Arpit Raj Katiyar](https://arpitrajkatiyar.netlify.app) 
+# 👋 Hi, I'm [Arpit Raj Katiyar](https://arpitrajkatiyar.vercel.app) 
 🎓 **B.Tech in CSE (AI/ML) @ [Kanpur Institute of Technology](https://www.kit.ac.in/)** | YGPA: 9.5  
 💡 Passionate about **AI, Web Development, and Problem-Solving**    
 🌱 Currently learning **React.js, Node.js, and TensorFlow**    
